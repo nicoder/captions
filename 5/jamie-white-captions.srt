@@ -3308,7 +3308,7 @@ So if I:
 
 779
 01:09:20,740 --> 01:09:22,980
-Type meaning "when you get the data through
+Type meaning: when you get the data through
 
 780
 01:09:26,708 --> 01:09:28,902
@@ -3325,7 +3325,7 @@ much about that manipulation here.
 
 783
 01:09:39,310 --> 01:09:41,520
-All we want to do is say is:
+All we want to do is say:
 
 784
 01:09:43,710 --> 01:09:47,500
