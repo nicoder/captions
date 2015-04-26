@@ -2949,7 +2949,7 @@ It's referring to the partner model.
 
 695
 01:00:22,114 --> 01:00:25,291
-And just like in rails, I'll have to tell it
+And just like in Rails, I'll have to tell it
 
 696
 01:00:27,965 --> 01:00:30,537
@@ -3068,7 +3068,7 @@ JW: Yes.
 
 723
 01:04:08,050 --> 01:04:09,840
-At the moment it's the rest adapter
+At the moment it's the REST adapter
 
 724
 01:04:10,450 --> 01:04:14,290
@@ -3102,7 +3102,7 @@ just namespace like this
 
 731
 01:04:59,510 --> 01:05:02,860
-DN: Does it still need to add .JSON?
+DN: Does it still need to add .json?
 
 732
 01:05:02,860 --> 01:05:03,370
@@ -3442,7 +3442,7 @@ Do I have it available?
 811
 01:11:55,600 --> 01:11:59,500
 Whereas now Ember
-data is doing that work for me.
+Data is doing that work for me.
 
 812
 01:11:59,560 --> 01:12:03,230
