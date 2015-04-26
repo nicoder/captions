@@ -3077,7 +3077,7 @@ but the data that we're working with
 725
 01:04:14,290 --> 01:04:17,860
 looks quite a lot like what
-active model serialiser would yield.
+active model serializers would yield.
 
 726
 01:04:18,560 --> 01:04:19,860
@@ -3230,7 +3230,7 @@ from one format to the other?
 
 761
 01:07:47,330 --> 01:07:49,280
-It's all happening in the serialiser
+It's all happening in the serializer
 
 762
 01:07:49,490 --> 01:07:50,180
@@ -3276,7 +3276,7 @@ So let's say:
 
 772
 01:08:19,080 --> 01:08:21,050
-We don't want a serialiser
+We don't want a serializer
 
 773
 01:08:21,330 --> 01:08:22,780
