@@ -3012,7 +3012,8 @@ end points we're looking for.
 
 710
 01:02:01,337 --> 01:02:03,880
-DN: We've got them in the API inaudible haven't we?
+DN: We've got them in the API namespace
+haven't we?
 
 711
 01:02:03,880 --> 01:02:04,880
@@ -3024,7 +3025,8 @@ If we add some of this:
 
 713
 01:02:24,830 --> 01:02:26,530
-This isn't quite inaudible.
+This isn't quite the order that things
+happened in.
 
 714
 01:02:37,870 --> 01:02:39,620
@@ -3041,7 +3043,8 @@ namespace of the API just yet.
 
 717
 01:03:14,580 --> 01:03:18,251
-And further more it doesn't know to stick a inaudible on the end.
+And further more it doesn't know to stick
+a .json on the end.
 
 718
 01:03:18,310 --> 01:03:20,930
@@ -3255,7 +3258,8 @@ into camel case.
 
 768
 01:08:01,770 --> 01:08:06,720
-inaudible, whatever is appropriate for the format.
+converting plurals into singular,
+whatever is appropriate for the format.
 
 769
 01:08:08,180 --> 01:08:10,360
@@ -3357,7 +3361,8 @@ My warnings have now gone.
 
 792
 01:11:03,880 --> 01:11:07,325
-It's complaining that the value of each inaudible must be an array.
+It's complaining that the value each
+loops over must be an array.
 
 793
 01:11:07,400 --> 01:11:09,400
@@ -3369,7 +3374,7 @@ DN: So are we down to this
 
 795
 01:11:10,970 --> 01:11:13,000
-thing called model inaudible
+thing called model.sequel
 
 796
 01:11:14,150 --> 01:11:17,530
@@ -3465,7 +3470,7 @@ managed to dig up the real model.
 
 817
 01:12:20,430 --> 01:12:23,580
-That was me inaudible quick.
+That was me just clicking through
 
 818
 01:12:24,570 --> 01:12:26,640
@@ -3506,7 +3511,8 @@ DN: Very nice.
 
 827
 01:12:55,970 --> 01:12:58,960
-JW: Data inaudible a lot quicker.
+JW: leaning on Ember Data makes it
+a lot quicker.
 
 828
 01:13:01,280 --> 01:13:03,680
@@ -3518,7 +3524,7 @@ by quite a lot all at once.
 
 830
 01:13:06,850 --> 01:13:11,510
-inaudible serialiser change the template a bit.
+a new serializer, changed the template a bit.
 
 831
 01:13:11,510 --> 01:13:13,510
@@ -3546,7 +3552,8 @@ I've got some unit tests which are failing
 
 837
 01:13:39,257 --> 01:13:42,190
-simply because they are inaudible that was generated for me
+simply because they are just boilerplate
+that was generated for me
 
 838
 01:13:43,260 --> 01:13:46,280
@@ -3602,11 +3609,12 @@ I have to keep jumping back to tests.
 
 850
 01:14:35,300 --> 01:14:38,800
-Now episode passes inaudible.
+Now episode passes
 
 851
 01:14:40,880 --> 01:14:42,920
-If we flip over to inaudible test you'll see a similar problem.
+If we flip over to the partner test
+you'll see a similar problem.
 
 852
 01:14:43,530 --> 01:14:45,874
